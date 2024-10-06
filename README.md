@@ -4,7 +4,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+0. Only thing to run: 
+
+```bash
+npx expo start --clear
+   ```
+1. AND DON'T do this: Install dependencies
 
    ```bash
    npm install
